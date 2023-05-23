@@ -10,4 +10,4 @@ Create a Registration and Login page using ReactJS.
 * In the Login Page, it will ask for the E-mail and Password
 * Upon logging in, it will display the the First name and Last name
 * Make sure that there are validations
-8 Create your own layout for the pages
+* Create your own layout for the pages
