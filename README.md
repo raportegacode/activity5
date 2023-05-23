@@ -13,3 +13,7 @@ Create a Registration and Login page using ReactJS.
 * Create your own layout for the pages
 
 ![Activity5-SS1](src/image/Activity5-SS1.png)
+![Activity5-SS2](src/image/Activity5-SS2.png)
+![Activity5-SS3](src/image/Activity5-SS3.png)
+![Activity5-SS4](src/image/Activity5-SS4.png)
+![Activity5-SS5](src/image/Activity5-SS5.png)
