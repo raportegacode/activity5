@@ -11,3 +11,5 @@ Create a Registration and Login page using ReactJS.
 * Upon logging in, it will display the the First name and Last name
 * Make sure that there are validations
 * Create your own layout for the pages
+
+![Activity5-SS1](src/image/Activity5-SS1.png)
